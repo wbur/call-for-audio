@@ -2,7 +2,7 @@
 
 ## Installation
 
-- Clone this repo `git@github.com:wbur/call-for-audio.git`
+- Clone this repo `git clone git@github.com:wbur/call-for-audio.git`
 - Get into the new dir: `cd call-for-audio`
 - Set up a venv (preferably ~python 3.8) `python3 -m venv venv`
 - Activate venv: `. venv/bin/activate`
